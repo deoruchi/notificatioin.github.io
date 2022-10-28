@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/kurokurotho/notificatioin.github.io.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live](https://kurokurotho.github.io/notificatioin.github.io/#)
 
 ## My process
 
